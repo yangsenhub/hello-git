@@ -1,2 +1,5 @@
-# hello-git
-one great trying
+note fenzhi
+创建和使用存储库
+启动并管理新分支
+对文件进行更改并将其作为提交推送到GitHub
+打开并合并拉取请求
